@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-size: 15px;
+  font-family: fantasy;
+  line-height: 60px;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
+body {
+  background-color: lightblue;
+}
